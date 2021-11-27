@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7441" started-at="2021-11-18T22:46:00 GMT" finished-at="2021-11-18T22:46:08 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7441" started-at="2021-11-18T22:46:00 GMT" finished-at="2021-11-18T22:46:08 GMT">
+      <class name="bdd.DemoProject.DynamicJson">
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:bdd.DemoProject.DynamicJson@53f65459]" name="addBook" duration-ms="6458" started-at="2021-11-18T22:46:01 GMT" data-provider="BooksData" finished-at="2021-11-18T22:46:07 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[efgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:bdd.DemoProject.DynamicJson@53f65459]" name="addBook" duration-ms="469" started-at="2021-11-18T22:46:07 GMT" data-provider="BooksData" finished-at="2021-11-18T22:46:08 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tyuy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1908]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:bdd.DemoProject.DynamicJson@53f65459]" name="addBook" duration-ms="395" started-at="2021-11-18T22:46:08 GMT" data-provider="BooksData" finished-at="2021-11-18T22:46:08 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nhuj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0981]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- bdd.DemoProject.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
